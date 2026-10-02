@@ -16,7 +16,7 @@ from AI-generated ones.
 - MobileNetV3Small, pretrained on ImageNet
 - Fine-tuned on 1,200 real and AI-generated face images (128x128)
 - Last 50 layers unfrozen, Adam (learning rate 1e-4), BatchNorm kept frozen
-- Test accuracy: 77.0% on the fixed 300-image test set
+- Test accuracy: 76.7% on the fixed 300-image test set
 
 ## Files
 - app.py: the Streamlit game
